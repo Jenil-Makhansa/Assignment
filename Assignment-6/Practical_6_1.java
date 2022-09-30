@@ -1,7 +1,7 @@
 /*
-Name: Jenil Makhansa
-ID : 21ce065
-Pr : Write a program to create thread which display “Hello World” message.
+Name : Jenil Makhansa
+ID   : 21ce065
+Pr   : Write a program to create thread which display “Hello World” message.
 A. by extending Thread class
 B. by using Runnable interface.
 */
