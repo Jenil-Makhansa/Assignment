@@ -1,5 +1,5 @@
-/*Name : Jenil Makhansa
-ID   : 21CE065*/
+//Name : Jenil Makhansa
+//ID   : 21CE065
 /*Aim:-(Display nonduplicate names in ascending order) Given one or more text files, each 
 representing a day’s attendance in a course and containing the names of the students 
 who attended the course on that particular day, write a program that displays, in 
